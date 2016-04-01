@@ -1,0 +1,5 @@
+php.ini
+uploads/**.rar
+uploads/*.zip
+*-uploads-*
+*atividade*
