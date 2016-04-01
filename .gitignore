@@ -1,5 +1,6 @@
 php.ini
-uploads/**.rar
+uploads/*.rar
 uploads/*.zip
 *-uploads-*
 *atividade*
+.bkpupload
